@@ -30,5 +30,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Web app to host my portfolio",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jseltzer7/Portfolio-Application.git"
+  },
+  "author": "Josh Seltzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jseltzer7/Portfolio-Application/issues"
+  },
+  "homepage": "https://github.com/jseltzer7/Portfolio-Application#readme"
 }
